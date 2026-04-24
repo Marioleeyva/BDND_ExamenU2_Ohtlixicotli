@@ -50,14 +50,14 @@ GitHub: [@MTI-MarcoRH](https://github.com/MTI-MarcoRH)
 
 ##  Planteamiento del Problema
 
-En México, el **80.9% de los niños** prefiere consumir contenido a través de medios digitales (INEGI, 2025). Sin embargo:
+En México, el 80.9% de los niños prefiere consumir contenido a través de medios digitales (INEGI, 2025). Sin embargo:
 
 -  La oferta de videojuegos para niños está dominada por producciones extranjeras.
 -  Predominan gráficos violentos o personajes estéticos sin narrativa.
 -  Pocos títulos permiten reconocer paisajes, especies nativas o historias de nuestra cultura.
 -  Falta de conexión con la realidad mexicana en el entretenimiento digital.
 
-Los niños de **8 a 10 años** juegan constantemente, pero carecen de opciones que les permitan valorar su propia identidad cultural.
+Los niños de 8 a 10 años juegan constantemente, pero carecen de opciones que les permitan valorar su propia identidad cultural.
 
 ---
 
