@@ -52,10 +52,10 @@ GitHub: [@MTI-MarcoRH](https://github.com/MTI-MarcoRH)
 
 En México, el **80.9% de los niños** prefiere consumir contenido a través de medios digitales (INEGI, 2025). Sin embargo:
 
--  La oferta de videojuegos para niños está dominada por producciones extranjeras
--  Predominan gráficos violentos o personajes estéticos sin narrativa
--  Pocos títulos permiten reconocer paisajes, especies nativas o historias de nuestra cultura
--  Falta de conexión con la realidad mexicana en el entretenimiento digital
+-  La oferta de videojuegos para niños está dominada por producciones extranjeras.
+-  Predominan gráficos violentos o personajes estéticos sin narrativa.
+-  Pocos títulos permiten reconocer paisajes, especies nativas o historias de nuestra cultura.
+-  Falta de conexión con la realidad mexicana en el entretenimiento digital.
 
 Los niños de **8 a 10 años** juegan constantemente, pero carecen de opciones que les permitan valorar su propia identidad cultural.
 
@@ -91,11 +91,11 @@ Desarrollar Ohtli Xicotlí, un videojuego 2D de entretenimiento que conecte a ni
 
 ##  Características Destacadas
 
--  Escenarios inspirados en paisajes de Pueblos Mágicos de México
--  Personajes basados en fauna nativa con estilo caricaturesco y culturalmente respetuoso
--  Identidad visual completa: logo, paleta de colores, tipografía y guía de estilo
--  Mecánicas de carreras y recolección optimizadas para Unity 2D
--  Modelo escalable con potencial de expansión a plataformas móviles y realidad aumentada
+-  Escenarios inspirados en paisajes de Pueblos Mágicos de México.
+-  Personajes basados en fauna nativa con estilo caricaturesco y culturalmente respetuoso.
+-  Identidad visual completa: logo, paleta de colores, tipografía y guía de estilo.
+-  Mecánicas de carreras y recolección optimizadas para Unity 2D.
+-  Modelo escalable con potencial de expansión a plataformas móviles y realidad aumentada.
 
 ---
 
